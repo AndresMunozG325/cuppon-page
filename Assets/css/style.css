@@ -1,0 +1,57 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.logo-size {
+  width: 86pt;
+  height: 25pt;
+}
+.card-text-description {
+  font-size: 20pt;
+  font-weight: 300;
+  color: #212529;
+}
+.card-text-brand {
+  font-size: 16pt;
+  font-weight: 300;
+  color: #707070;
+  margin-bottom: 0;
+}
+
+.card-text-location {
+  font-size: 13pt;
+  font-weight: 300;
+  color: #707070;
+  border-bottom: 1px solid #707070;
+  padding-bottom: 20px;
+}
+.price-older {
+  display: inline-flex;
+  text-align: right;
+  font-size: 16pt;
+  font-weight: 300;
+  color: #707070;
+}
+.price-offer {
+  display: inline-flex;
+  text-align: right;
+  font-size: 20pt;
+  font-weight: 500;
+  color: #28a745;
+}
+.receive-coupons {
+  font-size: 17pt;
+  text-align: center;
+  font-weight: 500;
+  color: #ffffff;
+}
+.form-control {
+  font-weight: 300;
+}
+.btn-lg {
+  width: 112.71pt;
+}
+.all-rights-reserved {
+  font-size: 16pt;
+  font-weight: 300;
+  color: #707070;
+}
